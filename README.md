@@ -1,7 +1,7 @@
 ## Nicholas De Kock
 
-![GitHub followers](https://img.shields.io/github/followers/NicholasDeKock?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/NicholasDeKock?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/NicholasDeKock?style=social)](https://github.com/NicholasDeKock)
+[![GitHub User's stars](https://img.shields.io/github/stars/NicholasDeKock?style=social)](https://github.com/NicholasDeKock)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DrNicNacks?style=social)](https://twitter.com/DrNicNacks)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdnU2DQBAy4mnDzhQbirpow?style=social)](https://www.youtube.com/channel/UCdnU2DQBAy4mnDzhQbirpow)
 [![Buy me a coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen)](https://www.buymeacoffee.com/NicholasDeKock)

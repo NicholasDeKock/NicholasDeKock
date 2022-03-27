@@ -1,16 +1,19 @@
-### Hi there 👋
+## Nicholas De Kock
 
-<!--
-**NicholasDeKock/NicholasDeKock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/NicholasDeKock?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/NicholasDeKock?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDrNicNacks)
+![Twitter Follow](https://img.shields.io/twitter/follow/DrNicNacks?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdnU2DQBAy4mnDzhQbirpow?style=social)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a MSc(Geoinformatics) Candidate and Research Assistant in the [Department of Geography, Geoinformatics and Meteorology](https://www.up.ac.za/geography-geoinformatics-and-meteorology) at the [University of Pretoria, South Africa](https://www.up.ac.za/).
+
+---
+### Education
+* **MSc** in _Geoinformatics_ (Current)
+* **BScHons** in _Geoinformatics_ (2021)
+* **BSc** in _Geoinformatics_ (2020)
+
+---
+
